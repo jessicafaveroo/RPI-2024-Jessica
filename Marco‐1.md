@@ -31,7 +31,7 @@ Este sistema permite:
 ### Para Administrador
 * **HU09:** **Como administrador escolar**, quero acessar e gerenciar os cadastros dos usuários para manter o sistema atualizado e funcional.
 * **HU10:** **Como administrador escolar**, quero acessar e modificar o cardápio no sistema conforme necessário para garantir a atualização das opções de refeições.
-* **HU11:** **Como administrador escolar**, quero visualizar todos os agendamentos, bloqueios e registros de faltas para monitorar a demanda e planejar recursos adequadamente.
+HU11: Como administrador escolar, quero visualizar relatórios de todos os agendamentos, bloqueios e registros de faltas para monitorar a demanda e planejar recursos adequadamente.
 * **HU12:** **Como administrador escolar**, desejo acessar e analisar o estoque no sistema para tomar decisões informadas sobre a compra de mais produtos.
 
 ### Para Equipe da Cozinha
